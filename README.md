@@ -58,7 +58,7 @@ LLM pipeline that validates incoming payment-approval emails against a client li
 varying levels of information and flagging suspicious requests for further processing.
 → [github.com/bajpai1289/ERP_Invoice_Automation](https://github.com/bajpai1289/ERP_Invoice_Automation)
 
-### 📊 KPI Analytics Dashboard — *Retail Sales* *(in development)*
+### 📊 KPI Analytics Dashboard  
 BI-style dashboard for monitoring retail sales trends, detecting anomalies, and forecasting demand.
 End-to-end pipeline from data processing to business reporting using **pandas, Prophet, Plotly,
 Streamlit, and Power BI**.
@@ -68,9 +68,9 @@ Streamlit, and Power BI**.
 
 ## 📈 GitHub Stats
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bajpai1289&show_icons=true&hide_rank=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpai1289&layout=compact&theme=default)
-
+<!-- ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bajpai1289&show_icons=true&hide_rank=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpai1289&layout=compact&theme=default) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=bajpai1289&theme=default)
 
 ---
 
