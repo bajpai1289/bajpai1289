@@ -68,9 +68,8 @@ Streamlit, and Power BI**.
 
 ## 📈 GitHub Stats
 
-Uncomment once activity is consistent
-[Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bajpai1289&show_icons=true&hide_rank=true&theme=default)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpai1289&layout=compact&theme=default)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=bajpai1289&show_icons=true&hide_rank=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bajpai1289&layout=compact&theme=default)
 
 
 ---
